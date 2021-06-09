@@ -25,4 +25,4 @@ int main()
     }
     cout<<"\n The second smallest number is\t"<<ssmall;
     return 0;
-}
+     }
